@@ -1,6 +1,6 @@
 # QN2-VUPay
 
-A Java application developed for Victoria University Kampala (VUU) that allows applicants to enter a Module Code and get the corresponding course details returned to the screen.
+A Java application developed for Victoria University Kampala (VU) that allows applicants to enter a Module Code and get the corresponding course details returned to the screen.
 
 ## Project Structure
 
